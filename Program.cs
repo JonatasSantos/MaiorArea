@@ -18,5 +18,8 @@ double areaX = Math.Sqrt(p * (p - xA) * (p - xB) * (p - xC));
 p = (yA + yB + yC) / 2.0;
 double areaY = Math.Sqrt(p * (p - yA) * (p - yB) * (p - yC));
 
+string maiorArea = (areaX > areaY) ? "X" : "Y";
+
 Console.WriteLine("Area de X igual a: " + areaX.ToString("F4", CultureInfo.InvariantCulture));
 Console.WriteLine("Area de Y igual a: " + areaY.ToString("F4", CultureInfo.InvariantCulture));
+Console.WriteLine("Maior area: " + maiorArea);
