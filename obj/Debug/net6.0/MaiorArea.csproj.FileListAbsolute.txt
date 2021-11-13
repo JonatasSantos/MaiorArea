@@ -1,0 +1,15 @@
+C:\Users\Jonatas\Desktop\Sites e WebApps\MaiorArea\bin\Debug\net6.0\MaiorArea.exe
+C:\Users\Jonatas\Desktop\Sites e WebApps\MaiorArea\bin\Debug\net6.0\MaiorArea.deps.json
+C:\Users\Jonatas\Desktop\Sites e WebApps\MaiorArea\bin\Debug\net6.0\MaiorArea.runtimeconfig.json
+C:\Users\Jonatas\Desktop\Sites e WebApps\MaiorArea\bin\Debug\net6.0\MaiorArea.dll
+C:\Users\Jonatas\Desktop\Sites e WebApps\MaiorArea\bin\Debug\net6.0\ref\MaiorArea.dll
+C:\Users\Jonatas\Desktop\Sites e WebApps\MaiorArea\bin\Debug\net6.0\MaiorArea.pdb
+C:\Users\Jonatas\Desktop\Sites e WebApps\MaiorArea\obj\Debug\net6.0\MaiorArea.csproj.AssemblyReference.cache
+C:\Users\Jonatas\Desktop\Sites e WebApps\MaiorArea\obj\Debug\net6.0\MaiorArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonatas\Desktop\Sites e WebApps\MaiorArea\obj\Debug\net6.0\MaiorArea.AssemblyInfoInputs.cache
+C:\Users\Jonatas\Desktop\Sites e WebApps\MaiorArea\obj\Debug\net6.0\MaiorArea.AssemblyInfo.cs
+C:\Users\Jonatas\Desktop\Sites e WebApps\MaiorArea\obj\Debug\net6.0\MaiorArea.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas\Desktop\Sites e WebApps\MaiorArea\obj\Debug\net6.0\MaiorArea.dll
+C:\Users\Jonatas\Desktop\Sites e WebApps\MaiorArea\obj\Debug\net6.0\ref\MaiorArea.dll
+C:\Users\Jonatas\Desktop\Sites e WebApps\MaiorArea\obj\Debug\net6.0\MaiorArea.pdb
+C:\Users\Jonatas\Desktop\Sites e WebApps\MaiorArea\obj\Debug\net6.0\MaiorArea.genruntimeconfig.cache
